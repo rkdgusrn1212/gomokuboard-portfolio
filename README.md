@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="120" height="120" src="https://github.com/rkdgusrn1212/gomokuboard-portfolio/assets/18836863/44327141-e93c-46a9-b071-e93d8e1d1a5f"/>
+</p>
+
 # 오목판 포트폴리오
 
 ## 오목판 프로젝트란?
